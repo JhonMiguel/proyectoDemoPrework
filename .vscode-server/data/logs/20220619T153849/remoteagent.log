@@ -1,0 +1,17 @@
+[2022-06-19 15:38:49.537] [remoteagent] [info] Extension host agent started.
+[2022-06-19 15:38:49.724] [remoteagent] [info] [127.0.0.1][cc40c277][ManagementConnection] New connection established.
+[2022-06-19 15:38:49.792] [remoteagent] [info] [127.0.0.1][891b6796][ExtensionHostConnection] New connection established.
+[2022-06-19 15:38:49.826] [remoteagent] [info] [127.0.0.1][891b6796][ExtensionHostConnection] <150> Launched Extension Host Process.
+[2022-06-19 15:47:33.748] [remoteagent] [info] [127.0.0.1][891b6796][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 2.002 ms - 150[0m
+
+[2022-06-19 20:47:13.360] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-19 20:53:57.830] [remoteagent] [info] [127.0.0.1][891b6796][ExtensionHostConnection] The client has reconnected.
+[2022-06-19 20:53:57.903] [remoteagent] [info] [127.0.0.1][cc40c277][ManagementConnection] The client has reconnected.
+[2022-06-20 01:38:41.039] [remoteagent] [info] [127.0.0.1][82caf5b3][ManagementConnection] New connection established.
+[2022-06-20 01:38:41.582] [remoteagent] [info] [127.0.0.1][bffcfe5a][ExtensionHostConnection] New connection established.
+[2022-06-20 01:38:41.599] [remoteagent] [info] [127.0.0.1][bffcfe5a][ExtensionHostConnection] <27341> Launched Extension Host Process.
+[2022-06-20 02:54:21.279] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-20 09:02:49.791] [remoteagent] [info] [127.0.0.1][82caf5b3][ManagementConnection] The client has reconnected.
+[2022-06-20 09:02:53.022] [remoteagent] [info] [127.0.0.1][bffcfe5a][ExtensionHostConnection] The client has reconnected.
+[2022-06-20 09:02:53.146] [remoteagent] [info] [127.0.0.1][891b6796][ExtensionHostConnection] The client has reconnected.
+[2022-06-20 09:02:53.292] [remoteagent] [info] [127.0.0.1][cc40c277][ManagementConnection] The client has reconnected.

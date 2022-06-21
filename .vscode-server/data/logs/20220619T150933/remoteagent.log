@@ -1,0 +1,42 @@
+[2022-06-19 15:09:33.255] [remoteagent] [info] Extension host agent started.
+[2022-06-19 15:09:33.330] [remoteagent] [info] [127.0.0.1][89d59caa][ManagementConnection] New connection established.
+[2022-06-19 15:09:33.493] [remoteagent] [info] [127.0.0.1][86cbb0ce][ExtensionHostConnection] New connection established.
+[2022-06-19 15:09:33.508] [remoteagent] [info] [127.0.0.1][86cbb0ce][ExtensionHostConnection] <269> Launched Extension Host Process.
+[2022-06-19 15:10:09.531] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:09.787] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:10.682] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/jhon/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.68.6150926
+[2022-06-19 15:10:10.870] [remoteagent] [info] Extracted extension to /home/jhon/.vscode-server/extensions/.c57b6d62-8936-4010-901a-8d6f523cc0ed: ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:10.884] [remoteagent] [info] Renamed to /home/jhon/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.68.6150926
+[2022-06-19 15:10:10.886] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:10.886] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:10.941] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-06-19 15:10:18.203] [remoteagent] [info] Getting Manifest... naumovs.color-highlight
+[2022-06-19 15:10:18.654] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2022-06-19 15:10:20.336] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /home/jhon/.vscode-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-06-19 15:10:20.595] [remoteagent] [info] Extracted extension to /home/jhon/.vscode-server/extensions/.72c8859d-e6cb-465f-9119-f9cface830a3: naumovs.color-highlight
+[2022-06-19 15:10:20.607] [remoteagent] [info] Renamed to /home/jhon/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+[2022-06-19 15:10:20.608] [remoteagent] [info] Extracting completed. naumovs.color-highlight
+[2022-06-19 15:10:20.608] [remoteagent] [info] Extension installed successfully: naumovs.color-highlight
+[2022-06-19 15:10:21.272] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-06-19 15:10:21.598] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-06-19 15:10:22.788] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/jhon/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-06-19 15:10:23.793] [remoteagent] [info] Extracted extension to /home/jhon/.vscode-server/extensions/.d5b261ce-a4d6-4067-a864-c5a7b2744bb6: ritwickdey.liveserver
+[2022-06-19 15:10:23.807] [remoteagent] [info] Renamed to /home/jhon/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-06-19 15:10:23.808] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-06-19 15:10:23.808] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-06-19 15:10:24.384] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-06-19 15:10:24.799] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2022-06-19 15:10:26.390] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/jhon/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.1
+[2022-06-19 15:10:26.446] [remoteagent] [info] Extracted extension to /home/jhon/.vscode-server/extensions/.58e4b985-7bb0-41ec-b636-412fcd619d28: christian-kohler.path-intellisense
+[2022-06-19 15:10:26.455] [remoteagent] [info] Renamed to /home/jhon/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-06-19 15:10:26.457] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-06-19 15:10:26.457] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-06-19 15:10:33.572] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-06-19 15:10:33.835] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-06-19 15:10:35.634] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/jhon/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-06-19 15:10:35.989] [remoteagent] [info] Extracted extension to /home/jhon/.vscode-server/extensions/.df8ce9f5-8140-4671-9f94-9513268a9685: esbenp.prettier-vscode
+[2022-06-19 15:10:35.997] [remoteagent] [info] Renamed to /home/jhon/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0
+[2022-06-19 15:10:35.999] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-06-19 15:10:36.000] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-06-19 15:11:18.931] [remoteagent] [info] [127.0.0.1][89d59caa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-19 15:11:18.948] [remoteagent] [info] [127.0.0.1][86cbb0ce][ExtensionHostConnection] <269> Extension Host Process exited with code: 0, signal: null.
